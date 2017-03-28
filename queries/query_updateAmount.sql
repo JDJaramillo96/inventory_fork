@@ -1,0 +1,1 @@
+UPDATE "inventory" SET "amount" = 10 WHERE "user_id" IN (1) AND "item_id" IN (1);
